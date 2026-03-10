@@ -589,7 +589,7 @@ function Tickers({ className }: { className?: string }) {
 
 function Content() {
   return (
-    <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[2059px] left-[calc(50%+1px)] overflow-clip top-[calc(50%+4.5px)] w-[1528px]" data-name="content">
+    <div className="-translate-x-1/2 -translate-y-1/2 absolute h-[2059px] left-[calc(50%+1px)] overflow-clip top-[calc(50%+4.5px)] w-[1528px] ml-[550px] mr-[0px] my-[0px]" data-name="content">
       <Footer />
       <Header />
       <div className="-translate-x-1/2 absolute h-[439px] left-[calc(50%+39px)] top-[338px] w-[1368px]">
